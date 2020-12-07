@@ -54,6 +54,8 @@
     command: /usr/local/lib/node_modules/forever/bin/forever  start {{ node_apps_location }}/app/app.js
     
 
+    
+
 
       
     
